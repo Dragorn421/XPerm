@@ -2,8 +2,8 @@
 Grant permissions depending on level - Minecraft Bukkit Plugin
 
 ### Links
-(Download)[http://dragorn421.fr/xperm/XPerm.jar]
-(Aide en français)[http://dragorn421.fr/xperm/]
+[Download](http://dragorn421.fr/xperm/XPerm.jar)
+[Aide en français](http://dragorn421.fr/xperm/)
 
 ### Commands
 /xperm reload - Recharger la configuration  
